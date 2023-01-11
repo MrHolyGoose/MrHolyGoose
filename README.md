@@ -27,6 +27,7 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 - [Test theory](https://github.com/MrHolyGoose/Test-theory)
 - [Test design techniques](https://github.com/MrHolyGoose/Test-design-techniques)
+- [Web App Testing](https://github.com/MrHolyGoose/Web-App-Testing)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/MrHolyGoose)
