@@ -1,5 +1,5 @@
 [![Header](https://github.com/MrHolyGoose/MrHolyGoose/blob/main/assets/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)](https://t.me/MrHolyGoose/)
-## I'm a QA Engineer and Tutor. 
+## I'm a QA Engineer. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
