@@ -29,6 +29,7 @@
 - [Test design techniques](https://github.com/MrHolyGoose/Test-design-techniques)
 - [Web App Testing](https://github.com/MrHolyGoose/Web-App-Testing)
 - [API testing in postman](https://github.com/MrHolyGoose/API-testing-in-postman)
+- [Database testing(SQL)](https://github.com/MrHolyGoose/Database-testing-SQL-)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/MrHolyGoose)
