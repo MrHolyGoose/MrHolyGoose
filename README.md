@@ -18,7 +18,7 @@
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge&logo=QASE&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/YOUTRACK-090909?style=for-the-badge&logo=YOUTRACK&logoColor=8cc4d7)
 
-### Testing Documentation
+### Testing Artefacts
 
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
