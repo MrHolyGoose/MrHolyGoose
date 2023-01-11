@@ -16,7 +16,6 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge&logo=QASE&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/YOUTRACK-090909?style=for-the-badge&logo=YOUTRACK&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge&logo=QASE&logoColor=136be1)
 
 ### Testing Documentation
 
