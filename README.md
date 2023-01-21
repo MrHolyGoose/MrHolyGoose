@@ -1,7 +1,7 @@
 [![Header](https://github.com/MrHolyGoose/MrHolyGoose/blob/main/assets/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)](https://t.me/MrHolyGoose/)
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1FYyszS9YsJFTTvCCxC9BwoW6VLFCgWng/view?usp=sharing/)
+[Link to my CV](https://drive.google.com/file/d/18foVazftfagBO_2Qqv7vxXjmCbRY6_Vw/view?usp=sharing/)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
